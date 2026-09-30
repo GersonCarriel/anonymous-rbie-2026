@@ -1,0 +1,1 @@
+Este código corresponde ao protótipo desenvolvido no contexto da minha pesquisa. A aplicação teve finalidade acadêmica e experimental, não devendo ser utilizada em produção sem revisão de segurança, especialmente quanto à validação de entradas, consultas SQL preparadas, controle de uploads e configuração de credenciais.
